@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @echavez091306
-- 👀 I’m interested in Computer Engineering at the College of Dupage
+- 👀 I’m in Computer Engineering at the College of Dupage
 - 🌱 I’m currently learning Python and C++
 - 📫 How to reach me: Edward Chavez on Linkedin
 - 😄 Pronouns: He/Him
